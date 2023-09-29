@@ -69,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Project Preview 
+![S1](https://github.com/RahulB2207/Website-for-Health-monitoring-system-using-IoT/assets/119783567/7edd800c-1194-4e8c-8cb0-52943462b9d8)
+![s2](https://github.com/RahulB2207/Website-for-Health-monitoring-system-using-IoT/assets/119783567/69b594d4-0d07-4c76-b56a-67f130be632d)
+![s3](https://github.com/RahulB2207/Website-for-Health-monitoring-system-using-IoT/assets/119783567/28352989-bb53-44a5-bdb8-e85556ea8b51)
+![s4](https://github.com/RahulB2207/Website-for-Health-monitoring-system-using-IoT/assets/119783567/da5b0335-58e1-4bff-9467-f3c2be637a66)
+![s5](https://github.com/RahulB2207/Website-for-Health-monitoring-system-using-IoT/assets/119783567/814811a0-5547-467b-b635-683e679fd790)
